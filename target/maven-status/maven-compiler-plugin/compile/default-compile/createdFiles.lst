@@ -1,0 +1,9 @@
+br\com\fiap\GreetingResource.class
+br\com\fiap\models\Usuario.class
+br\com\fiap\enums\StatusEnum.class
+br\com\fiap\enums\RoleEnum.class
+br\com\fiap\resource\TarefaResource.class
+br\com\fiap\service\TarefaService.class
+br\com\fiap\dao\TarefaDao.class
+br\com\fiap\dto\TarefaDto.class
+br\com\fiap\models\Tarefa.class
